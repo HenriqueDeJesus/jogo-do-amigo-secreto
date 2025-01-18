@@ -27,6 +27,11 @@ A aplicação <strong>Amigo Secreto</strong> é uma plataforma simples que permi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+## Deploy
+Acesse o projeto online clicando no link abaixo:
+
+🔗 [Jogo do Amigo Secreto](https://henriquedejesus.github.io/jogo-do-amigo-secreto/)
+
 ## Como Executar o Projeto
 
 Para rodar a aplicação em sua máquina, siga os passos abaixo:
